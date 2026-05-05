@@ -10,9 +10,9 @@
 
 ## // about
 
-Junior cybersecurity analyst and NOC engineer at **Directcore Technologies**, where I build NAC solutions, automate threat intel pipelines, and keep large-scale infrastructure online. Co-founder of **[InfoneX Solutions](https://github.com/sudo-su-7/infoneXsolutions-core)** — a cybersecurity consultancy I started to bring real security tooling and awareness to SMEs in Kenya.
+Junior cybersecurity analyst and NOC engineer ,  I build NAC solutions, automate threat intel pipelines, and keep large-scale infrastructure online. Co-founder of **[InfoneX Solutions](https://github.com/sudo-su-7/infoneXsolutions-core)** — a cybersecurity consultancy we started to bring real security tooling and awareness to SMEs in Kenya.
 
-I live in the terminal. I build tools that either break systems or defend them — sometimes both. Currently pursuing API penetration testing certification and expanding my offensive security skills through my home lab.
+I thrive in the terminal building tools that either break systems or defend them — sometimes both. Currently pursuing API penetration testing certification and expanding my offensive security skills through my home lab.
 
 ---
 
@@ -70,9 +70,9 @@ I live in the terminal. I build tools that either break systems or defend them �
 | Channel | Link |
 |---|---|
 | Email | danielmutumamutethia@gmail.com |
-| LinkedIn | *(add your LinkedIn URL here)* |
-| InfoneX | *(add website if live)* |
+| LinkedIn | |
+| InfoneX | |
 
 ---
 
-*Open to remote cybersecurity roles, freelance engagements, and internships at established tech firms.*
+*Open to remote & onsite cybersecurity and infrastructure roles, freelance engagements, and internships at established tech firms.*
