@@ -1,4 +1,4 @@
-# Daniel Mutuma
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200§ion=header&text=Daniel%20Mutuma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20NOC%20Engineer%20%7C%20Founder&descAlignY=55&descAlign=50)](https://github.com/sudo-su-7)
 ### `$ whoami` — cybersecurity analyst · noc engineer · founder
 
 ![Open to remote work](https://img.shields.io/badge/open%20to-remote%20work-1D9E75?style=flat-square)
